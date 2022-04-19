@@ -71,16 +71,35 @@ footer {
   }
 
   main {
-    width: 100%;
-    margin: 50px 10% 50px;
+    width: auto;
     display: block;
-  }
-
-  .flexbox {
-    display: block;
+    margin: 50px auto;
   }
 
   .step-box {
+    width: 100%;
   }
 
-}
+  .step-img1 {
+    width: 100%;
+  }
+
+  .step-img2 {
+    width: 100%;
+  }
+
+  .step-img3 {
+    width: 100%;
+  }
+
+  .step-num {
+    width: 100%;
+  }
+
+  .title {
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+  }
